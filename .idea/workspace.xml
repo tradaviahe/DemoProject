@@ -232,6 +232,7 @@
           <folding>
             <element signature="e#78#79#0" expanded="true" />
             <element signature="e#131#132#0" expanded="true" />
+<<<<<<< HEAD
           </folding>
         </state>
       </provider>
@@ -243,6 +244,8 @@
           <folding>
             <element signature="e#78#79#0" expanded="true" />
             <element signature="e#131#132#0" expanded="true" />
+=======
+>>>>>>> edit_main.java
           </folding>
         </state>
       </provider>
